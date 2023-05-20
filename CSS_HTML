@@ -1,0 +1,118 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+body{  
+    background-image: url(src/fo.jpg); 
+   text-rendering: initial;
+   justify-content: center 
+    
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-family: 'Bebas Neue', sans-serif;
+}
+    
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    align-items: center;
+    text-align: center;
+   
+}
+article{
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+
+#color{
+    color: brown;
+    
+}
+.colort{
+    color: white;
+    
+}
+
+body{
+  
+   columns: 0cap;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+header{
+    display: flex;   
+    justify-content:space-between;
+   min-height: 10px; 
+    background-color:gray;
+    align-items:center ;
+    padding: 10px;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.logo-img{
+    height: 50px;
+    margin-right: 2px;
+}
+
+a{
+    text-decoration: none;
+    color:azure;
+}
+
+nav a{
+    font-weight: 200000;
+    padding-right: 20px;
+}
+
+nav a:hover{
+    color: rgb(18, 207, 68);
+}
+
+@media (max-width:1000px){
+    header{
+        flex-direction: column;
+    }
+    nav{
+        padding: 10px 0px;
+    }
+}
+
+.redes {
+    
+range: infinite;
+   image-rendering: pixelated;
+   
+}
+
+#color2{
+    text-align: center;
+    color: chartreuse;
+}
+
+table th{
+width: 10em;
+}
+table{
+    border-collapse: collapse;
+
+}
+
+tr:nth-of-type(1)>th {
+    background-color: coral;
+}
+
+td[colspan]{
+    text-align: center;
+    background-color: brown;
+    font-weight: bold;
+}
+
