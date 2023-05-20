@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog_Personal</title>
+    <link rel="stylesheet" href="style.css">
+    
+    
+</head>
+<body>
+    <header>
+        <a href="https://classroom.google.com/" class="logo">
+            <img src="rfc.ico" alt="lodgod" class="logo-img">
+            <h2 class="logo-nombre">MI_BLOG_PERSONAL</h2>
+        </a>
+        <nav>
+            <a href="https://www.youtube.com/watch?v=oXWmMXWS_sU&t=2s" class="nav-link">Presentacion</a>
+            <a href="https://photos.google.com/photo/AF1QipMgbtGp0KAbISaAbhRpBcDsvJ1bT2Yb3FNk-y82" class="">Fotos</a>
+            <a href="https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX?si=6f11bb43cf284eb6" class="nav-link">Canciones</a>
+            
+        </nav>
+    </header>
+  
+       <h1 id="color"> Edilberto Hernandez Ramirez</h1>    
+        <img  src="src/foto.jpg" alt="esto es html 5" width="200">
+        <id class="colort">
+        <h3>Estudiante en tecnologias de la informacion</h3>
+    
+           
+            <p>Mi nombre es Edilberto Hernandez Ramirez y tengo 18 años, ya casi cumplo los 19.jeje. Naci en la comunidad</p>
+            <p>de pahactla,atlapexco,hgo, un 22 de mayo del 2004. Actualmente estoy cursando el 3 cuatrimstre de la carrera</p>
+            <p>de tecnologias de la informacion, en la escuela con el nombre de uthh. Mis padres son: juana ramirez bautista y juan</p>
+            <p> cristobal, tengo dos hemanos el mayor se llama fernando y el pequeño se llama ossiel y yo soy el </p>
+            <p> mediano. Desde mi infancia siempre he sido muy curioso.Aprendi a caminar alos 2 años, despues cuando cumpli  </p>
+            <p>los 3 me metieron ala escuela, ahi aprendi a poder hablar y conoci los numeros, alos 6 años culmine el kinder y entre ala</p>
+            <p>primiria ahi aprendi a leer, sumar, multiplicar y ect. Alos 12 años lo culmine y entre en la tecnica ahi estuve tres años</p></b>
+            <p>y ahi me enseñaron a programar desde ese momento me intereso mucho aprender todo lo relacionado ala programacion, al  </p>
+            <p>mundo tecnologico.</p>
+            <br>
+            <p>Alos 15 años entre ala prepa, ahi aprendi muchas cosas. Actualmente estoy cursando el 3 cuatrimestre en tsu en tecnologias de la
+
+            </p>
+            <p>informacion.  </p>
+            <article> Tengo muchas metas que quiero cumplir, se perfectamente que si me esfuerzo lo voy a lograr.</article>
+            <br>
+            <h2><b>Pasatiempos:</b></h2>
+            <ul>
+                <li>Jugar futbol.</li>
+                <li>Leer </li>
+                <li>Pasar tiempo con mi familia</li>
+                <li>Jugar videoguegos</li>
+                <li>Viajar</li>
+                <li>Salir a correr</li>
+            </ul>
+            <h2><b>Escuelas Cursados:</b></h2>
+            <ul>
+                <details>
+              <summary>kinder</summary></li>
+                    <p>"Benito Juarez"</p>
+                </details>
+                <details>
+                    <summary>Primaria</summary></li>
+                          <p>"Luis Villareal"</p>
+                      </details>
+                      <details>
+                        <summary>Tecnica</summary></li>
+                              <p>"Justo Sierra"</p>
+                          </details> 
+                          <details>
+                            <summary>Ceciteh</summary></li>
+                                  <p>"Miguel Hidalgo"</p>
+                              </details>    
+                              <details>
+                                <summary>Uthh</summary></li>
+                                <p>cursando!!</p>
+                                      <p>"Universidad Tecnologico de la Huasteca Hidalguense"</p>
+                                  </details>    
+                
+            </ul>
+            <ol>
+        <h2>Metas: </h2>
+                <li>Culminar la carrera.</li>
+                <li>Tener una empresa.</li>
+                <li>Crear un nuevo sitema operativo que sea innovadora.</li>
+                <li>Estudiar en la UNAM, la carrera de ciberseguridad.</li>
+                <li>Crear tecnologias que dejen una gran huella en la sociedad.</li>
+            </ol>
+            <br>
+
+            <table>
+                <tr>
+                    <th>Familia</th>
+                    <th>Nombre</th>
+                    <th>Edad</th>
+                </tr>
+                <tr>
+                    <td>Papa</td>
+                    <td>Juan cristobal hernandez hernandez</td>
+                    <td>51</td>
+                </tr>
+                <tr>
+                    <td>Mama</td>
+                    <td>Juana ramirez bautista</td>
+                    <td>45</td>
+                </tr>
+                <tr>
+                    <td>Hermano</td>
+                    <td>Fernando hernandez ramirez</td>
+                    <td>26</td>
+                </tr>
+                <tr>
+                    <td>Hermano</td>
+                    <td>Ossiel hernandez ramirez</td>
+                    <td>15</td>
+                </tr>
+                <td>yo</td>
+                    <td>Edilberto hernandez ramirez</td>
+                    <td>19</td>
+            </table>
+
+       
+
+        </center>   <h2 id="color2">Horario</h2><center>
+          <table border="1">
+             <body>
+           <h1>TSU Tic 3D</h1>
+           <table style="width: 100%;">
+            <tr>
+                <th>Hora</th>
+                <th>Lunes</th>
+                <th>Martes</th>
+                <th>Miercoles</th>
+                <th>Jueves</th>
+                <th>Viernes</th>
+            </tr>
+            <tr>
+                <th>7:00-7:50</th>
+            <td>aplicaciones web</td>
+            <td>probabilidad y estadistica</td>
+            <td>aplicaciones web</td>
+            <td>probabilidad y estadistica</td>
+            <td>aplicaciones web</td>
+            </tr>
+            <tr>
+                <th>7:50-8:40</th>
+                <td>aplicaciones web</td>
+                <td>probabilidad y estadistica</td>
+                <td>aplicaciones web</td>
+                <td>probabilidad y estadistica</td>
+                <td>aplicaciones web</td>
+                </tr>
+                <tr>
+                    <th>8:40-9:30</th>
+                    <td>tutorias</td>
+                    <td>calculo diferencial</td>
+                    <td>file 1</td>
+                    <td>calculo diferencial</td>
+                    <td>integradora 1</td>
+                    </tr>
+                    <tr>
+                        <th>9:30-10:20</th>
+                        <td>tutorias</td>
+                        <td>calculo diferencial</td>
+                        <td>file 1</td>
+                        <td>calculo diferencial</td>
+                        <td>integradora 1</td>
+                        </tr>
+                        <tr>
+                            <th>10:20-10:50</th>
+                            <th colspan="5">Receso</th>
+                            </tr>
+
+                            <tr>
+                                <th>10:50-11:40</th>
+                                <td>base de datos para aplicaciones</td>
+                                <td>base de datos para aplicaciones</td>
+                                <td>base de datos para aplicaciones</td>
+                                <td>file 1</td>
+                                <td>base de datos para aplicaciones</td>
+                                </tr>
+                                <tr>
+                                    <th>11:40-12:30</td>
+                                    <td>base de datos para aplicaciones</td>
+                                    <td>base de datos para aplicaciones</td>
+                                    <td>base de datos para aplicaciones</td>
+                                    <td>file 1</td>
+                                    <td>base de datos para aplicaciones</td>
+                                    </tr>
+                                    <tr>
+                                        <th>12:30-1:20</th>
+                                        <td>probabilidad y estadistica</td>
+                                        <td>sistemas operativos</td>
+                                        <td>ingles III</td>
+                                        <td>sistemas operativos</td>
+                                        <td>ingles III</td>
+                                        </tr>
+                                        <tr>
+                                            <th>1:20-2:10</th>
+                                            <td>sistemas operativos</td>
+                                            <td>sistemas operativos</td>
+                                            <td>ingles III</td>
+                                            <td>sistemas operativos</td>
+                                            <td>formacion sociocultural III</td>
+                                            </tr>
+                                            <tr>
+                                                <th>2:10-3:00</th>
+                                                <td>ingles III</td>
+                                            </tr>
+                                            <tr>
+                                                <th>3:00-3:50</th>
+                                                <td>ingles III</td>
+                                            </tr>
+
+        </table>
+             </body>
+          </table>
+            <br>
+            <div class="redes">
+            <details>
+                <summary>REDES SOCILAES</summary></li>
+                <p>Telefono: 7712635027</p>
+                <p>Correo: 20221034@hotmail.edumx</p>
+                <a href="https://www.facebook.com/" target="_blank">  <img src="src/facebbook.jpg" alt="incono de fac" width="50"> </a>
+                <a href="https://www.instagram.com/" target="_blank">  <img src="src/instagram.png" alt="incono de fac" width="50"> </a>
+                <a href="https://twitter.com/home?lang=es" target="_blank">  <img src="src/twiter.png" alt="incono de fac" width="50"> </a>
+                <a href="https://www.youtube.com/@yazedgot4192/channels" target="_blank"> <img src="src/youtube.jpg" alt="incono de fac" width="50"> </a>
+
+           </details>
+        </div>
+        </id>
+      
+
+ 
+</body>
+</html>
